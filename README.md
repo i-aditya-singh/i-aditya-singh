@@ -58,3 +58,16 @@
 </div>
 
 ###
+
+<h3>Competitive Programming</h3>
+<p>
+  <a href="https://codeforces.com/profile/iadityasingh" target="_blank">
+    <img src="https://sta.codeforces.com/s/98841/images/codeforces-sponsored-by-ton.png" height="40" alt="Codeforces" />
+  </a>
+  <a href="https://www.codechef.com/users/iadityasingh" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/12/Cc-logo.svg" height="40" alt="CodeChef" />
+  </a>
+  <a href="[https://www.linkedin.com/in/YOUR_USERNAME](https://www.linkedin.com/in/aditya-kumar-singh-799a1827a/)" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="LinkedIn" />
+  </a>
+</p>
