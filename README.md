@@ -62,9 +62,9 @@
 <h3>Competitive Programming</h3>
 <p>
   <a href="https://codeforces.com/profile/iadityasingh" target="_blank">
-    <img src="https://codeforces.org/s/94222/images/codeforces-sponsored-by-ton.png" height="40" alt="Codeforces" />
+    <img src="https://codeforces.org/s/94222/images/codeforces-sponsored-by-ton.png" width="150" height="auto" alt="Codeforces"  />
   </a>
   <a href="https://www.codechef.com/users/iadityasingh" target="_blank">
-    <img src="https://cdn.codechef.com/images/cc-logo.svg" height="40" alt="CodeChef" />
+    <img src="https://cdn.codechef.com/images/cc-logo.svg" width="150" height="auto" alt="CodeChef"  />
   </a>
 </p>
